@@ -8,7 +8,7 @@ function SideBar() {
     return (
         <div className="sidebar">
             {/* <h2>Sidebar</h2> */}
-            <SideBarRow title="Home" Icon={HomeIcon}/>
+            <SideBarRow selected  title="Home" Icon={HomeIcon}/>
             <SideBarRow title="Trending" Icon={WhatshotIcon}/>
             <SideBarRow title="Subscription" Icon={SubscriptionsIcon}/>
         </div>

@@ -20,3 +20,21 @@
     cursor: pointer;
 
 }
+.sideBarRow:hover > .sideBarRow_icon{
+    color: red;
+
+}
+.sideBarRow:hover > .sideBarRow_title{
+    font-weight: bold;
+
+}
+.sideBarRow.selected{
+    background-color: lightgray;
+    
+
+}
+.sideBarRow.selected > .sideBarRow_icon{
+    color: red;
+    
+
+}
