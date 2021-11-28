@@ -38,3 +38,8 @@
     
 
 }
+.sideBarRow.selected > .sideBarRow_title{
+    font-weight: bold;
+    
+
+}

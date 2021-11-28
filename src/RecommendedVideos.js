@@ -1,6 +1,7 @@
 import React from 'react'
 import './RecommendedVideos.css'
 import SideBarRow from './SideBarRow'
+import VideoCard from './VideoCard'
 function RecommendedVideos() {
     return (
         <div className="recommendedVideos">
@@ -8,6 +9,22 @@ function RecommendedVideos() {
             {/* <SideBarRow title="Home"/>
             <SideBarRow title="Trending"/>
             <SideBarRow title="Subscription"/> */}
+            <div className="recommendedVideos_videos">
+                
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+            <VideoCard/>
+
+
+            </div>
             
         </div>
     )
