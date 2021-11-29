@@ -9,6 +9,7 @@ function SideBarRow({Icon,title}) {
             <Icon className="sidebarRow_icon"/> */}
 
             <h2 className="sidebarRow_title">{title}</h2>
+            
         </div>
     )
 }
