@@ -11,17 +11,17 @@ function RecommendedVideos() {
             <SideBarRow title="Subscription"/> */}
             <div className="recommendedVideos_videos">
                 
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
-            <VideoCard/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
+            <VideoCard title="Image Recognition Video-5" views="63" channelImage="D:/placement_documents/resumeimage.jpg" timestamp="3 days ago" channel="Shivam Datta" image="E:/my youtube channel/thumbnails/opencvlogo.png"/>
 
 
             </div>
